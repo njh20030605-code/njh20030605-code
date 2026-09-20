@@ -19,6 +19,10 @@
 
 Node.js · Playwright · 飞书开放平台 · Python · Swift/SwiftUI · 纯前端 HTML/JS · Claude Code / Claude in Chrome
 
+## 💬 联系我
+
+微信 **Anyway77777777** · 邮件走 GitHub 主页 · 欢迎同行交流 TikTok Shop 运营自动化
+
 ## 📌 口径约定
 
 ₫3,860 ≈ ¥1 · USD × 6.8 = RMB · 主 KPI = 本土店直播间 GMV + 商品卡 GMV
